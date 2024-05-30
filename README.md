@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Bubbl33s 👋
 
-<!--
-**Bubbl33s/Bubbl33s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Programming Teacher who loves imparting knowledge on programming basics. I have a keen interest in game development and I am a strong advocate for best practices and clean code.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently exploring more advanced game development techniques.
+- 💬 Ask me about Python, C#, JavaScript, HTML, CSS, and anything related to game development.
+- 🎓 I enjoy helping others understand the fundamentals of programming and how to write clean, efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: Python, C#, JavaScript, HTML, CSS
+- **Tools**: Unity, JetBrains IDEs (PyCharm, Rider, etc.)
+
+## Stats
+![Bubbl33s's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bubbl33s&show_icons=true)
+
+## Fun Facts
+- 🔭 I’m currently working on enhancing my game development skills in Unity.
+- 🐱 Floppa and Neko Arc lover.
+- 🧩 I enjoy solving Rubik's cubes in my free time.
