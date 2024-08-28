@@ -1,6 +1,4 @@
-# Hi there, I'm Bubbl33s 👋
-
-## About Me
+## I'm Bubbl33s
 I'm a passionate Programming Teacher who loves imparting knowledge on programming basics. I have a keen interest in game development and I am a strong advocate for best practices and clean code.
 
 - 🌱 I’m currently exploring more advanced game development techniques.
