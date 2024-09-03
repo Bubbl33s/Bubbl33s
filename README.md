@@ -11,7 +11,7 @@ I'm a passionate Programming Teacher who loves imparting knowledge on programmin
 
 ## Stats
 ![Bubbl33s's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bubbl33s&show_icons=true&theme=omni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbl33s&layout=compact&theme=omni)
 
 ## Fun Facts
 - 🔭 I’m currently working on enhancing my game development skills in Unity.
