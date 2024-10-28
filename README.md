@@ -5,7 +5,7 @@ I'm a passionate Programming Teacher who loves imparting knowledge on programmin
 - 💬 Ask me about Python, C#, JavaScript, HTML, CSS, and anything related to game development.
 - 🎓 I enjoy helping others understand the fundamentals of programming and how to write clean, efficient code.
 
-🚀 ***Check out my Angry Birds fangame our team is developing!** Dive into the adventure and catch a preview in this [video](https://www.youtube.com/watch?v=axqPHBmamI4). Feedback is welcome! 🎮
+🚀 **Check out my Angry Birds fangame our team is developing!** Dive into the adventure and catch a preview in this [video](https://www.youtube.com/watch?v=axqPHBmamI4). Feedback is welcome! 🎮
 
 
 ## Skills
