@@ -20,3 +20,6 @@ I'm a passionate Programming Teacher who loves imparting knowledge on programmin
 - 🔭 I’m currently working on enhancing my game development skills in Unity.
 - 🐱 Floppa and Neko Arc lover.
 - 🧩 I enjoy solving Rubik's cubes in my free time.
+
+##
+![snake](https://github.com/AM27TH/AM27TH/blob/output/github-contribution-grid-snake.svg)
